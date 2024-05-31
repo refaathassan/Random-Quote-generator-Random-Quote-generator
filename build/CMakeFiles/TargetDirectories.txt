@@ -1,0 +1,4 @@
+E:/itida_schoolership/CMake/Design_Pattern_Project/build/CMakeFiles/mylib.dir
+E:/itida_schoolership/CMake/Design_Pattern_Project/build/CMakeFiles/app.dir
+E:/itida_schoolership/CMake/Design_Pattern_Project/build/CMakeFiles/edit_cache.dir
+E:/itida_schoolership/CMake/Design_Pattern_Project/build/CMakeFiles/rebuild_cache.dir

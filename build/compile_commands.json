@@ -1,0 +1,134 @@
+[
+{
+  "directory": "E:/itida_schoolership/CMake/Design_Pattern_Project/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -o CMakeFiles/mylib.dir/lib/AngryHandler.cpp.obj -c E:/itida_schoolership/CMake/Design_Pattern_Project/lib/AngryHandler.cpp",
+  "file": "E:/itida_schoolership/CMake/Design_Pattern_Project/lib/AngryHandler.cpp",
+  "output": "CMakeFiles/mylib.dir/lib/AngryHandler.cpp.obj"
+},
+{
+  "directory": "E:/itida_schoolership/CMake/Design_Pattern_Project/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -o CMakeFiles/mylib.dir/lib/AuthoAnwerHandler.cpp.obj -c E:/itida_schoolership/CMake/Design_Pattern_Project/lib/AuthoAnwerHandler.cpp",
+  "file": "E:/itida_schoolership/CMake/Design_Pattern_Project/lib/AuthoAnwerHandler.cpp",
+  "output": "CMakeFiles/mylib.dir/lib/AuthoAnwerHandler.cpp.obj"
+},
+{
+  "directory": "E:/itida_schoolership/CMake/Design_Pattern_Project/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -o CMakeFiles/mylib.dir/lib/AuthoFactory.cpp.obj -c E:/itida_schoolership/CMake/Design_Pattern_Project/lib/AuthoFactory.cpp",
+  "file": "E:/itida_schoolership/CMake/Design_Pattern_Project/lib/AuthoFactory.cpp",
+  "output": "CMakeFiles/mylib.dir/lib/AuthoFactory.cpp.obj"
+},
+{
+  "directory": "E:/itida_schoolership/CMake/Design_Pattern_Project/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -o CMakeFiles/mylib.dir/lib/AuthoHandler.cpp.obj -c E:/itida_schoolership/CMake/Design_Pattern_Project/lib/AuthoHandler.cpp",
+  "file": "E:/itida_schoolership/CMake/Design_Pattern_Project/lib/AuthoHandler.cpp",
+  "output": "CMakeFiles/mylib.dir/lib/AuthoHandler.cpp.obj"
+},
+{
+  "directory": "E:/itida_schoolership/CMake/Design_Pattern_Project/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -o CMakeFiles/mylib.dir/lib/AuthonticationDataBase.cpp.obj -c E:/itida_schoolership/CMake/Design_Pattern_Project/lib/AuthonticationDataBase.cpp",
+  "file": "E:/itida_schoolership/CMake/Design_Pattern_Project/lib/AuthonticationDataBase.cpp",
+  "output": "CMakeFiles/mylib.dir/lib/AuthonticationDataBase.cpp.obj"
+},
+{
+  "directory": "E:/itida_schoolership/CMake/Design_Pattern_Project/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -o CMakeFiles/mylib.dir/lib/Colleage.cpp.obj -c E:/itida_schoolership/CMake/Design_Pattern_Project/lib/Colleage.cpp",
+  "file": "E:/itida_schoolership/CMake/Design_Pattern_Project/lib/Colleage.cpp",
+  "output": "CMakeFiles/mylib.dir/lib/Colleage.cpp.obj"
+},
+{
+  "directory": "E:/itida_schoolership/CMake/Design_Pattern_Project/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -o CMakeFiles/mylib.dir/lib/Command.cpp.obj -c E:/itida_schoolership/CMake/Design_Pattern_Project/lib/Command.cpp",
+  "file": "E:/itida_schoolership/CMake/Design_Pattern_Project/lib/Command.cpp",
+  "output": "CMakeFiles/mylib.dir/lib/Command.cpp.obj"
+},
+{
+  "directory": "E:/itida_schoolership/CMake/Design_Pattern_Project/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -o CMakeFiles/mylib.dir/lib/ConreteMediator.cpp.obj -c E:/itida_schoolership/CMake/Design_Pattern_Project/lib/ConreteMediator.cpp",
+  "file": "E:/itida_schoolership/CMake/Design_Pattern_Project/lib/ConreteMediator.cpp",
+  "output": "CMakeFiles/mylib.dir/lib/ConreteMediator.cpp.obj"
+},
+{
+  "directory": "E:/itida_schoolership/CMake/Design_Pattern_Project/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -o CMakeFiles/mylib.dir/lib/Console.cpp.obj -c E:/itida_schoolership/CMake/Design_Pattern_Project/lib/Console.cpp",
+  "file": "E:/itida_schoolership/CMake/Design_Pattern_Project/lib/Console.cpp",
+  "output": "CMakeFiles/mylib.dir/lib/Console.cpp.obj"
+},
+{
+  "directory": "E:/itida_schoolership/CMake/Design_Pattern_Project/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -o CMakeFiles/mylib.dir/lib/ConsoleFactory.cpp.obj -c E:/itida_schoolership/CMake/Design_Pattern_Project/lib/ConsoleFactory.cpp",
+  "file": "E:/itida_schoolership/CMake/Design_Pattern_Project/lib/ConsoleFactory.cpp",
+  "output": "CMakeFiles/mylib.dir/lib/ConsoleFactory.cpp.obj"
+},
+{
+  "directory": "E:/itida_schoolership/CMake/Design_Pattern_Project/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -o CMakeFiles/mylib.dir/lib/DataBase.cpp.obj -c E:/itida_schoolership/CMake/Design_Pattern_Project/lib/DataBase.cpp",
+  "file": "E:/itida_schoolership/CMake/Design_Pattern_Project/lib/DataBase.cpp",
+  "output": "CMakeFiles/mylib.dir/lib/DataBase.cpp.obj"
+},
+{
+  "directory": "E:/itida_schoolership/CMake/Design_Pattern_Project/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -o CMakeFiles/mylib.dir/lib/Handlers.cpp.obj -c E:/itida_schoolership/CMake/Design_Pattern_Project/lib/Handlers.cpp",
+  "file": "E:/itida_schoolership/CMake/Design_Pattern_Project/lib/Handlers.cpp",
+  "output": "CMakeFiles/mylib.dir/lib/Handlers.cpp.obj"
+},
+{
+  "directory": "E:/itida_schoolership/CMake/Design_Pattern_Project/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -o CMakeFiles/mylib.dir/lib/HappyHandler.cpp.obj -c E:/itida_schoolership/CMake/Design_Pattern_Project/lib/HappyHandler.cpp",
+  "file": "E:/itida_schoolership/CMake/Design_Pattern_Project/lib/HappyHandler.cpp",
+  "output": "CMakeFiles/mylib.dir/lib/HappyHandler.cpp.obj"
+},
+{
+  "directory": "E:/itida_schoolership/CMake/Design_Pattern_Project/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -o CMakeFiles/mylib.dir/lib/Mediator.cpp.obj -c E:/itida_schoolership/CMake/Design_Pattern_Project/lib/Mediator.cpp",
+  "file": "E:/itida_schoolership/CMake/Design_Pattern_Project/lib/Mediator.cpp",
+  "output": "CMakeFiles/mylib.dir/lib/Mediator.cpp.obj"
+},
+{
+  "directory": "E:/itida_schoolership/CMake/Design_Pattern_Project/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -o CMakeFiles/mylib.dir/lib/Memento.cpp.obj -c E:/itida_schoolership/CMake/Design_Pattern_Project/lib/Memento.cpp",
+  "file": "E:/itida_schoolership/CMake/Design_Pattern_Project/lib/Memento.cpp",
+  "output": "CMakeFiles/mylib.dir/lib/Memento.cpp.obj"
+},
+{
+  "directory": "E:/itida_schoolership/CMake/Design_Pattern_Project/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -o CMakeFiles/mylib.dir/lib/SadHandler.cpp.obj -c E:/itida_schoolership/CMake/Design_Pattern_Project/lib/SadHandler.cpp",
+  "file": "E:/itida_schoolership/CMake/Design_Pattern_Project/lib/SadHandler.cpp",
+  "output": "CMakeFiles/mylib.dir/lib/SadHandler.cpp.obj"
+},
+{
+  "directory": "E:/itida_schoolership/CMake/Design_Pattern_Project/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -o CMakeFiles/mylib.dir/lib/Screen.cpp.obj -c E:/itida_schoolership/CMake/Design_Pattern_Project/lib/Screen.cpp",
+  "file": "E:/itida_schoolership/CMake/Design_Pattern_Project/lib/Screen.cpp",
+  "output": "CMakeFiles/mylib.dir/lib/Screen.cpp.obj"
+},
+{
+  "directory": "E:/itida_schoolership/CMake/Design_Pattern_Project/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -o CMakeFiles/mylib.dir/lib/ScreenFactory.cpp.obj -c E:/itida_schoolership/CMake/Design_Pattern_Project/lib/ScreenFactory.cpp",
+  "file": "E:/itida_schoolership/CMake/Design_Pattern_Project/lib/ScreenFactory.cpp",
+  "output": "CMakeFiles/mylib.dir/lib/ScreenFactory.cpp.obj"
+},
+{
+  "directory": "E:/itida_schoolership/CMake/Design_Pattern_Project/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -o CMakeFiles/mylib.dir/lib/TXT.cpp.obj -c E:/itida_schoolership/CMake/Design_Pattern_Project/lib/TXT.cpp",
+  "file": "E:/itida_schoolership/CMake/Design_Pattern_Project/lib/TXT.cpp",
+  "output": "CMakeFiles/mylib.dir/lib/TXT.cpp.obj"
+},
+{
+  "directory": "E:/itida_schoolership/CMake/Design_Pattern_Project/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -o CMakeFiles/mylib.dir/lib/TXTFactory.cpp.obj -c E:/itida_schoolership/CMake/Design_Pattern_Project/lib/TXTFactory.cpp",
+  "file": "E:/itida_schoolership/CMake/Design_Pattern_Project/lib/TXTFactory.cpp",
+  "output": "CMakeFiles/mylib.dir/lib/TXTFactory.cpp.obj"
+},
+{
+  "directory": "E:/itida_schoolership/CMake/Design_Pattern_Project/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -o CMakeFiles/mylib.dir/lib/private_lib.cpp.obj -c E:/itida_schoolership/CMake/Design_Pattern_Project/lib/private_lib.cpp",
+  "file": "E:/itida_schoolership/CMake/Design_Pattern_Project/lib/private_lib.cpp",
+  "output": "CMakeFiles/mylib.dir/lib/private_lib.cpp.obj"
+},
+{
+  "directory": "E:/itida_schoolership/CMake/Design_Pattern_Project/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -o CMakeFiles/app.dir/src/app.cpp.obj -c E:/itida_schoolership/CMake/Design_Pattern_Project/src/app.cpp",
+  "file": "E:/itida_schoolership/CMake/Design_Pattern_Project/src/app.cpp",
+  "output": "CMakeFiles/app.dir/src/app.cpp.obj"
+}
+]

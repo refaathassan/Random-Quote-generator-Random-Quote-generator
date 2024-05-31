@@ -1,0 +1,2 @@
+refaat(favourit color,favourit name,favourit numbers,)(red,ahmed,1234,)
+ali(favourit color,favourit name,favourit numbers,)(blue,mohmed,2345,)
